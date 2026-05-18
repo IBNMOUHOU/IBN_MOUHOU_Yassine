@@ -1,11 +1,10 @@
 # TP DataOps - Pipeline ETL avec pandas + PostgreSQL
 
-[![ETL DataOps CI](https://github.com/USERNAME/IBN_MOUHOU_Yassine/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/IBN_MOUHOU_Yassine/actions/workflows/ci.yml)
+[![ETL DataOps CI](https://github.com/IBNMOUHOU/IBN_MOUHOU_Yassine/actions/workflows/ci.yml/badge.svg)](https://github.com/IBNMOUHOU/IBN_MOUHOU_Yassine/actions/workflows/ci.yml)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
 [![PostgreSQL 15](https://img.shields.io/badge/postgresql-15-blue.svg)](https://www.postgresql.org/)
 [![Coverage](https://img.shields.io/badge/coverage->80%25-brightgreen.svg)](#tests)
 
-> Remplacer `USERNAME` dans l'URL du badge par votre nom d'utilisateur GitHub.
 
 **Cours :** DevOps & DataOps - Jour 2
 **Auteur :** IBN MOUHOU Yassine
@@ -66,11 +65,10 @@ IBN_MOUHOU_Yassine/
 ### 2. Cloner et installer les dépendances
 
 ```bash
-git clone https://github.com/USERNAME/IBN_MOUHOU_Yassine.git
+git clone https://github.com/IBNMOUHOU/IBN_MOUHOU_Yassine.git
 cd IBN_MOUHOU_Yassine
 python -m venv .venv
-source .venv/bin/activate     # Linux / Mac
-# .venv\Scripts\activate      # Windows
+source .venv/bin/activate     
 pip install -r requirements.txt
 ```
 
