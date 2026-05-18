@@ -1,0 +1,11 @@
+id,client_email,date_vente,montant,categorie
+1,alice@mail.com,2024-01-05,120.50,Electronique
+2,bob@mail.com,2024-01-12,45.00,Vetements
+3,alice@mail.com,2024-01-18,320.00,Electronique
+4,carol@mail.com,2024-02-03,89.90,Maison
+5,bob@mail.com,2024-02-14,210.00,Electronique
+6,dave@mail.com,2024-02-20,15.50,Vetements
+7,,2024-03-01,60.00,Maison
+8,carol@mail.com,2024-03-08,430.00,Electronique
+9,alice@mail.com,2024-03-15,75.00,Maison
+10,eve@mail.com,2024-03-22,-10.00,Vetements
